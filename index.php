@@ -28,61 +28,234 @@
                         </li>
                     </ul>
                 </div>
-                
-                <div class="modulo vermelho">
-                    <h3>Basic1_10 </h3>
+                <div class="modulo vermelho-escuro">
+                    <h3>MiniProjetos - BASICO</h3>
                     <ul>
                         <li>
-                            <a href="exercicio.php?dir=Basic1_10&file=variaveis">
-                            Variáveis
+                            <a href="exercicio.php?dir=Projects1_14&file=trocando_valores_de_variaveis">
+                            Trocando Valores de Variáveis
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=Basic1_10&file=constantes">
-                            Constantes
+                            <a href="exercicio.php?dir=Projects1_14&file=maximo_entre_dois_valores">
+                            Máximo Entre Dois Valores
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=Basic1_10&file=tipos_primitivos">
-                            Tipos Primitivos
+                            <a href="exercicio.php?dir=Projects1_14&file=fizzbuzz">
+                            FizzBuzz
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=Basic1_10&file=tipagem_dinamica_js">
-                            Tipagem Dinâmica no JavaScript
+                            <a href="exercicio.php?dir=Projects1_14&file=medidor_de_velocidade">
+                            Medidor de Velocidade
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=Basic1_10&file=objetos">
-                            Objetos
+                            <a href="exercicio.php?dir=Projects1_14&file=par_ou_impar">
+                            Par ou Impar
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=Basic1_10&file=arrays">
-                            Arrays
+                            <a href="exercicio.php?dir=Projects1_14&file=encontre_o_string">
+                            Encontre o String
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=Basic1_10&file=functions">
-                            Functions
+                            <a href="exercicio.php?dir=Projects1_14&file=multiplos_de_3_e_5">
+                            Multiplos de 3 e 5
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=Basic1_10&file=tipos_funcoes">
-                            Tipos de Funções
+                            <a href="exercicio.php?dir=Projects1_14&file=media_de_nota_escolar">
+                            Média de Nota Escolar
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=Basic1_10&file=operadores_javascript">
-                            Operadores JavaScript
+                            <a href="exercicio.php?dir=Projects1_14&file=contador_de_asteriscos">
+                            Contador de Asteríscos
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=Basic1_10&file=operadores_aritmeticos_javascript">
-                            Operadores Aritméticos no JavaScript
+                            <a href="exercicio.php?dir=Projects1_14&file=numeros_primos">
+                            Números Primos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Projects1_14&file=montador_de_endereco">
+                            Montador de Endereço
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Projects1_14&file=encontre_a_igualdade">
+                            Encontre a igualdade
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Projects1_14&file=montador_de_postagem_de_blog">
+                            Montador de Postagem de blog
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Projects1_14&file=faixa_de_preco">
+                            Faixa de Preço
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Projects1_14&file=segurança_virtual">
+                            Segurança Virtual
                             </a>
                         </li>
                     </ul>
+                </div>
+                <div class="modulo verde-escuro">
+                    <h3>Basic41_46 </h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=Basic41_46&file=operador_spread">
+                                Operador Spread
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic41_46&file=foreach">
+                                Foreach
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic41_46&file=combinando_arrays">
+                                Combinando Arrays
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic41_46&file=input_como_receber_dados_do_usuario">
+                                Input - Como receber dados do usuário
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic41_46&file=introducao_a_manipulacao_do_dom">
+                                Introdução a manipulação do DOM
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic41_46&file=mensagem_final">
+                                Mensagem Final!
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                
+                
+                <div class="modulo laranja">
+                    <h3>Basic31_40 </h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=Basic31_40&file=date_lidando_com_datas">
+                                Date Lidando com datas
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic31_40&file=constructor_function">
+                                Constructor Function
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic31_40&file=introducao_a_arrays">
+                                Introdução a Arrays
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic31_40&file=add_elementos_a_um_array">
+                                Add Elementos a um Array
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic31_40&file=encontrando_elementos_do_tipo_primitivos">
+                                Encontrando Elementos do Tipo Primitivos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic31_40&file=encontrando_elementos_do_tipo_referencia">
+                                Encontrando Elementos do Tipo Referência
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic31_40&file=arrow_functions">
+                                Arrow Functions
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic31_40&file=removendo_elementos_de_um_array">
+                                Removendo elementos de um Array
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic31_40&file=esvaziando_um_array">
+                                Esvaziando um Array
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic31_40&file=combinando_um_array">
+                                Combinando um Array
+                            </a>
+                        </li>
+                    </ul>
+                    
+                </div>
+                <div class="modulo roxo">
+                    <h3>Basic21_30 </h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=Basic21_30&file=laco_for_in_loop_for_in">
+                                Laço For..In/Loop For..In
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic21_30&file=laco_for_of_loop_for_of">
+                                Laço For..Of/Loop For..Of
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic21_30&file=mensagem_para_inscritos">
+                                Mensagem Para Inscritos :D
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic21_30&file=factory_functions">
+                                Factory Functions
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic21_30&file=constructor_functions">
+                                Constructor Functions
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic21_30&file=natureza_dinamica__objetos">
+                                Natureza Dinâmica de Objetos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic21_30&file=clonando_objetos">
+                                Clonando Objetos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic21_30&file=math">
+                                Math
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic21_30&file=string">
+                                String
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic21_30&file=template_literal">
+                                Template Literal
+                            </a>
+                        </li>
+                    </ul>
+
                 </div>
                 <div class="modulo verde">
                     <h3>Basic11_20 </h3>
@@ -139,60 +312,63 @@
                         </li>
                     </ul>
                 </div>
-
-11  
-12  
-13  
-14  
-15  
-(Mini-Projeto 1) - Trocando Valores de Variáveis
-16  
-17  
-18  
-19  
-20  
-
-
-21  Laço For..In/Loop For..In
-22  Laço For..Of/Loop For..Of
-(Mini-Projeto 2) - Máximo Entre Dois Valores
-(Mini-Projeto 3) - FizzBuzz
-(Mini-Projeto 4) - Medidor de Velocidade
-23  Mensagem Para Inscritos :D
-(Mini-Projeto 5) - Par ou Impar
-(Mini-Projeto 6) - Encontre o String
-(Mini-Projeto 7) - Multiplos de 3 e 5
-(Mini-Projeto 8) - Média de Nota Escolar
-(Mini-Projeto 9) - Contador de Asteríscos
-(Mini-Projeto 10) - Números Primos
-24  Factory Functions
-25  Constructor Functions
-26  Natureza Dinâmica de Objetos
-27  Clonando Objetos
-28  Math
-29  String
-30  Template Literal
-31  Date Lidando com datas
-(Mini-Projeto 11) - Montador de Endereço
-(Mini-Projeto 12) - Encontre a igualdade
-(Mini-Projeto 13) - Montador de Postagem de blog
-32  Constructor Function
-(Mini-Projeto 14) - Faixa de Preço
-33  Introdução a Arrays
-34  Add Elementos a um Array
-35  Encontrando Elementos do Tipo Primitivos
-36  Encontrando Elementos do Tipo Referência
-37  Arrow Functions
-38  Removendo elementos de um Array
-39  Esvaziando um Array
-40  Combinando um Array
-41  Operador Spread
-42  Foreach
-43  Combinando Arrays
-44  Input - Como receber dados do usuário
-45  Introdução a manipulação do DOM
-(Mini-Projeto 14) - Segurança Virtual
-46  Mensagem Final!
+                <div class="modulo vermelho">
+                    <h3>Basic1_10 </h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=Basic1_10&file=variaveis">
+                            Variáveis
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic1_10&file=constantes">
+                            Constantes
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic1_10&file=tipos_primitivos">
+                            Tipos Primitivos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic1_10&file=tipagem_dinamica_js">
+                            Tipagem Dinâmica no JavaScript
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic1_10&file=objetos">
+                            Objetos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic1_10&file=arrays">
+                            Arrays
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic1_10&file=functions">
+                            Functions
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic1_10&file=tipos_funcoes">
+                            Tipos de Funções
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic1_10&file=operadores_javascript">
+                            Operadores JavaScript
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Basic1_10&file=operadores_aritmeticos_javascript">
+                            Operadores Aritméticos no JavaScript
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                
+                
             </nav>
         </div>
     </main>
