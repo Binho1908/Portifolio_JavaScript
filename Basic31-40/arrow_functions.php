@@ -1,1 +1,0 @@
-<div class="titulo">Arrow Functions</div>
