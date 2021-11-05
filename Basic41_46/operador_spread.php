@@ -1,1 +1,0 @@
-<div class="titulo">Operador Spread</div>
