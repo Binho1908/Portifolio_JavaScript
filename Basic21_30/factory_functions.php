@@ -1,1 +1,0 @@
-<div class="titulo">Factory Functions</div>
