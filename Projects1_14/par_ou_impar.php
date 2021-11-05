@@ -1,1 +1,0 @@
-<div class="titulo">Par ou Impar</div>

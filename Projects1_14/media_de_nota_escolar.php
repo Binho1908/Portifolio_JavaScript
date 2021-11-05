@@ -1,1 +1,0 @@
-<div class="titulo">Média de Nota Escolar</div>

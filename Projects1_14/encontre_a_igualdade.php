@@ -1,1 +1,0 @@
-<div class="titulo">Encontre a igualdade</div>
